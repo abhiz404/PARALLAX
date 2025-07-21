@@ -1,4 +1,6 @@
 Parallax Website
+
+
 A modern, responsive website featuring parallax scrolling effects to create an engaging and interactive user experience.
 Features
 Smooth parallax scrolling effects on background and foreground elements
